@@ -83,6 +83,4 @@ public class Deudas {
 		this.fecha_vencimiento = fecha_vencimiento;
 	}
 	
-	
-	
 }
